@@ -19,3 +19,12 @@ I blend **UI/UX sensibility** with **scalable engineering practices** to deliver
 - 📈 Building high-performance apps with a clean developer experience
 
 ---
+
+## 🎯 Outside of Work
+
+When I’m not coding, I like to:  
+- 🎬 Watch movies  
+- ⚽ Play football or cricket  
+- ✈️ Travel and explore new places  
+
+---
